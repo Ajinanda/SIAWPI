@@ -6,7 +6,7 @@
                     <div class="col-xs-3">
                       <div class="info-box">
                         <!-- Apply any bg-* class to to the icon to color it -->
-                        <span class="info-box-icon bg-red"><i class="fa fa-star-o"></i></span>
+                        <span class="info-box-icon bg-blue"><i class="fa fa-user-plus"></i></span>
                         <div class="info-box-content">
                           <span class="info-box-text">Likes</span>
                           <span class="info-box-number">93,139</span>
@@ -18,7 +18,7 @@
                     <div class="col-xs-3">
                       <div class="info-box">
                         <!-- Apply any bg-* class to to the icon to color it -->
-                        <span class="info-box-icon bg-red"><i class="fa fa-star-o"></i></span>
+                        <span class="info-box-icon bg-green"><i class="fa fa-thumbs-o-up"></i></span>
                         <div class="info-box-content">
                           <span class="info-box-text">Likes</span>
                           <span class="info-box-number">93,139</span>
@@ -74,6 +74,10 @@
                   </div>
                 </div>
               </div>';
+
+  $js = '<script> 
+
+        </script>';
 
   include ('../template/t_dashboard.php');
 

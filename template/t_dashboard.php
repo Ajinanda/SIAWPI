@@ -180,6 +180,7 @@
 <script src="../bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
 <!-- AdminLTE App -->
 <script src="../dist/js/adminlte.min.js"></script>
+<?php echo $js; ?>
 
 </body>
 </html>
